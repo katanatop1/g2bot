@@ -2,7 +2,7 @@
 <div align="center">
   <p>
     <h1>g2.gangsters.pl bot</h1>
-    <h3>Aktualny na 31.12.2023 (chrome/firefox)</h3>
+    <h3>Aktualny na 07.01.2024 (chrome/firefox)</h3>
   </p>
 <h1>W ramach sprzeciwu wobec wybiorczego postepowania admina w walce z botami zdecydowaliśmy się umieścić działającego bota online:</h1>
 </div>
